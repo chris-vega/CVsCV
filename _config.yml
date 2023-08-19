@@ -1,0 +1,17 @@
+theme: jekyll-theme-minimal
+title: 💻🚧🎥📸
+description: CV's CV
+analytics:
+  tracking_id: G-N8B957VS8E
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      layout: "dark"
+    values:
+      theme: "dark"
